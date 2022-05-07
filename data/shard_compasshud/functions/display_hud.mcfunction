@@ -1,0 +1,2 @@
+# The command is written in an execute for future proofing
+execute as @a[tag=displayCoords] run title @s actionbar ["",{"text":"XYZ: ","color":"gold"},{"text":"(","color":"white"},{"color":"white","score":{"name":"*","objective":"positionX"}},{"text":", ","color":"white"},{"color":"white","score":{"name":"*","objective":"positionY"}},{"text":", ","color":"white"},{"color":"white","score":{"name":"*","objective":"positionZ"}},{"text":")","color":"white"}]
