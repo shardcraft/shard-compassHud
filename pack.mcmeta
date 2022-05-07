@@ -1,6 +1,6 @@
 {
   "pack":{
     "pack_format":9,
-    "description":"A Minecraft data pack that adds coordinates to the HUD whenever a player is holding a compass."
+    "description":"A Minecraft data pack that adds a series of HUD enhancements when holding a compass."
   }
 }
