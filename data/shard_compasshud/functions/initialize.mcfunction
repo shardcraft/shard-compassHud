@@ -5,7 +5,6 @@ scoreboard objectives add positionZ dummy
 
 # Altitude
 scoreboard objectives add altBossbar dummy
-scoreboard objectives add isAirborne minecraft.custom:minecraft.aviate_one_cm
 
 bossbar add shard_compasshud:altitude0 "Altitude"
 bossbar set shard_compasshud:altitude0 color white
