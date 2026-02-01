@@ -7,6 +7,3 @@ execute if score global clocks matches 0 run function shard_compasshud:display_h
 
 # Update altitude bossbars
 function shard_compasshud:update_bossbar
-
-# Debug
-execute if score global clocks matches 0 run tell @a[team=debug] shard_compassHud
