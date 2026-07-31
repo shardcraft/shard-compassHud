@@ -1,0 +1,19 @@
+{
+  "parent": "shard_compasshud:numbers_are_hard",
+  "display": {
+    "icon": {
+      "id": "minecraft:elytra"
+    },
+    "title": "Higher Math",
+    "frame": "task",
+    "description": "Fly while holding a compass",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "nothing": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

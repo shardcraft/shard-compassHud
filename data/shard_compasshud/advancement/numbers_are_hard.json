@@ -1,0 +1,19 @@
+{
+  "parent": "shard_core:root",
+  "display": {
+    "icon": {
+      "id": "minecraft:compass"
+    },
+    "title": "Numbers are Hard",
+    "frame": "task",
+    "description": "Hold a compass in your hand",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "nothing": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}
